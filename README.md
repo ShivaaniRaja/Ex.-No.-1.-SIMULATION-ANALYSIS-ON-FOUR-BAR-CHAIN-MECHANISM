@@ -49,10 +49,11 @@
 
 
 ## Output:
+![Screenshot 2025-04-15 185927](https://github.com/user-attachments/assets/9eda167d-11d6-4a68-8a92-3d5a0431d604)
 
-![Screenshot 2025-04-15 055841](https://github.com/user-attachments/assets/88bd74a5-d08d-427c-8173-761b67e49ace)
+![Screenshot 2025-04-15 190003](https://github.com/user-attachments/assets/0d4aa983-27cd-4e64-868d-ca86f57a92a5)
 
-![Screenshot 2025-04-15 055238](https://github.com/user-attachments/assets/1539acee-06c8-463b-98fe-5367d288a49a)
+
 
 ### Name:R.SHIVAANI
 ### Register Number: 212224220097
